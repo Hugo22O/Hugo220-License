@@ -1,2 +1,2 @@
-# Hugo220-License
+# Hugo220 License
 My own license (: 
