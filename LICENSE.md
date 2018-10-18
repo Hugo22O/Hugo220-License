@@ -1,4 +1,5 @@
-MIT License
+# Hugo220 License (Version 1)
+_License based on the MIT & BEEWARE license._
 
 Copyright (c) 2018 Hugo22O
 
@@ -8,6 +9,9 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
+If we meet some day, you should buy me a drink.
+Hugs are mandatory when meeting me!
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
