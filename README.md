@@ -13,6 +13,6 @@ None currently (: No one probably ever will. :D
 
 ## Changlog
 
-[18/10/18] - READ.ME has been made and basic information was added into the readme file.
-[18/10/18] - License updated to version one and officialy published. 
-[17/10/18] - License made.
+- [18/10/18] - READ.ME has been made and basic information was added into the readme file.
+- [18/10/18] - License updated to version one and officialy published. 
+- [17/10/18] - License made.
