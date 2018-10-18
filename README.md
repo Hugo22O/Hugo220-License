@@ -1,4 +1,4 @@
-# Hugo220's  License _My own license (:_
+# Hugo220's  License | _My own license (:_
 
 A license based on the MIT & BEEWARE license. Idea for my own license came from FinlayDaG33k's license witch can be found here: https://github.com/FinlayDaG33k/FinlayDaG33k-License
 
