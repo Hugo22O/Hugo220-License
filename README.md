@@ -5,7 +5,8 @@ A license based on the MIT & BEEWARE license. Idea for my own license came from 
 
 ## Contact
 
-If happend to have any question regarding this license please e-mail me at info@alone4.life 
+I don't have any contact information as of this moment.
+
 
 ## Populair repositories  using the Hugo220 License
 
